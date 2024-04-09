@@ -1,6 +1,7 @@
 this litle project can manipulate an ipv4 and can give to you some information
 
 exemple of usage:
+
 test = IP("192.168.0.1")
 print(test.mask_cidr)
 print(test.mask_bin)
